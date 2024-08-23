@@ -6,3 +6,5 @@ def logout():
     pass
 def test():
     pass
+def user():
+    pass
