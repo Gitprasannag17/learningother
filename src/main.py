@@ -4,5 +4,3 @@ def login():
     pass
 def logout():
     pass
-def test():
-    pass
